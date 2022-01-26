@@ -1,0 +1,14 @@
+body{
+    background-color: green;
+}
+h1{
+    background-color: orange;
+    color: black;
+}
+#show_sketch{
+    margin-left: 100px;
+}
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
